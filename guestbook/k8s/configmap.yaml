@@ -4,6 +4,6 @@ metadata:
   name: guestbook-heon-config
 data:
   APP_TITLE: "방명록 202344057김도헌"
-  THEME_COLOR: "#16a34a"
+  THEME_COLOR: "#ebc7ff"
   REDIS_HOST: "redis"
   REDIS_PORT: "6379"

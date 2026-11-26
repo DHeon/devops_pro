@@ -22,7 +22,7 @@ spec:
             - name: REDIS_PASSWORD
               valueFrom:
                 secretKeyRef:
-                  name: guestbook-secret
+                  name: guestbook-heon-secret
                   key: REDIS_PASSWORD
           ports:
             - containerPort: 6379
